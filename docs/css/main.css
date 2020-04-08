@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     color: rgba(77,61,58,1);
-    background-image: url("/docs/img/apocalypse.jpg");
+    background-image: url("../img/apocalypse.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
